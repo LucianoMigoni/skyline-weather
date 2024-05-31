@@ -1,0 +1,47 @@
+[{
+    "location": {
+        "name": "Luanda",
+        "region": "Cuanza Norte",
+        "country": "Angola",
+        "lat": -8.84,
+        "lon": 13.23,
+        "tz_id": "Africa/Luanda",
+        "localtime_epoch": 1717035903,
+        "localtime": "2024-05-30 3:25"
+    },
+    "current": {
+        "last_updated_epoch": 1717035300,
+        "last_updated": "2024-05-30 03:15",
+        "temp_c": 25,
+        "temp_f": 77,
+        "is_day": 0,
+        "condition": {
+            "text": "Partly cloudy",
+            "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
+            "code": 1003
+        },
+        "wind_mph": 2.2,
+        "wind_kph": 3.6,
+        "wind_degree": 119,
+        "wind_dir": "ESE",
+        "pressure_mb": 1011,
+        "pressure_in": 29.85,
+        "precip_mm": 0.02,
+        "precip_in": 0,
+        "humidity": 89,
+        "cloud": 75,
+        "feelslike_c": 28.1,
+        "feelslike_f": 82.6,
+        "windchill_c": 22.7,
+        "windchill_f": 72.9,
+        "heatindex_c": 25.1,
+        "heatindex_f": 77.2,
+        "dewpoint_c": 21.8,
+        "dewpoint_f": 71.2,
+        "vis_km": 7,
+        "vis_miles": 4,
+        "uv": 1,
+        "gust_mph": 10,
+        "gust_kph": 16.2
+    }
+}]

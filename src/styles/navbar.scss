@@ -1,0 +1,27 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    // fixed
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 0.5rem 1rem;
+    z-index: 10;
+    background-color: #fff;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+nav h1{
+    font-size: 1rem;
+    font-weight: 700;
+    margin-left: 1rem;
+}
+
+nav h2{
+    font-size: 0.8rem;
+    font-weight: 600;
+    margin-right: 1rem;
+    color: #7E7E7E;
+}
