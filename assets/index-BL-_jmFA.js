@@ -24076,7 +24076,6 @@ function aD(e) {
 function sD(e) {
   return { typeCheckers: iD, photos: oD(e), videos: aD(e), collections: nD(e) };
 }
-import fetch from "isomorphic-fetch";
 const lD = "b6e12d00924f4dabb8021345243005",
   uD = sD("w0EDPActUOgwgqD3KsRFosdmSrNbJlyeU0OoL4WMoDliN3OkM3gWluh6"),
   cD = ({ locationCountry: e, locationCity: t }) => {
