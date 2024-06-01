@@ -1,0 +1,17 @@
+.location-container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 6rem;
+}
+
+.location-search{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+label{
+    font-size: 1.1rem;
+    margin: 0 0 .5rem .5rem;
+    font-weight: 500;
+}
